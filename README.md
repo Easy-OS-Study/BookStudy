@@ -1,11 +1,18 @@
 # BookStudy
 
+![운영체제](https://github.com/Easy-OS-Study/BookStudy/assets/50690859/26d27f91-657b-4fc0-8f9e-dcf08cb5bde2)
+
+<br>
+
 ## 진행 방법
 - 쉽게배우는운영체제 독서 스터디
 - 매주 각자 1 챕터씩 독서 진행
 - 매주 시작 시 무작위로 1명이 해당 챕터 읽은 소감 발표
 - 매주 각자 3문제씩 면접문제 준비 후 2문제씩 총 8문제 질문 진행
 - 블로그나 깃허브 등 독서 내용 정리의 경우 자율적으로 진행
+
+<br>
+<br>
 
 <details>
 <summary>1Chapter</summary>
