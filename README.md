@@ -23,7 +23,7 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|https://newbie-in-softengineering.tistory.com/entry/OS-Ch1-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EA%B0%9C%EC%9A%94|
 |김민우|https://velog.io/@kmw89891/운영체제의-개요|
 |황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter1.md|
 |황하림||
