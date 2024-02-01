@@ -64,7 +64,7 @@
 |:---:|:----------:|
 |임규리||
 |김민우|https://velog.io/@kmw89891/컴퓨터-구조와-성능-향상|
-|황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/%EC%89%BD%EA%B2%8C%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Chapter2.md|
+|황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter2.md|
 |황하림||
 
 <br>
