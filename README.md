@@ -71,7 +71,7 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|https://newbie-in-softengineering.tistory.com/entry/OS-Ch2-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81|
 |김민우|https://velog.io/@kmw89891/컴퓨터-구조와-성능-향상|
 |황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter2.md|
 |황하림||
