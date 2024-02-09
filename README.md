@@ -23,9 +23,9 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리|[링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch1-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EA%B0%9C%EC%9A%94)|
-|김민우|[링크](https://velog.io/@kmw89891/운영체제의-개요)|
-|황인준|[링크](블로그https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter1.md)|
+|임규리|[정리 링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch1-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EA%B0%9C%EC%9A%94)|
+|김민우|[정리 링크](https://velog.io/@kmw89891/운영체제의-개요)|
+|황인준|[정리 링크](블로그https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter1.md)|
 |황하림||
 
 <br>
@@ -71,9 +71,9 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리|https://newbie-in-softengineering.tistory.com/entry/OS-Ch2-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81|
-|김민우|https://velog.io/@kmw89891/컴퓨터-구조와-성능-향상|
-|황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter2.md|
+|임규리|[정리 링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch2-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)|
+|김민우|[정리 링크](https://velog.io/@kmw89891/컴퓨터-구조와-성능-향상)|
+|황인준|[정리 링크](https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter2.md)|
 |황하림||
 
 <br>
@@ -136,17 +136,25 @@
 |이름|링크|
 |:---:|:----------:|
 |임규리||
-|김민우||
-|황인준|https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter3.md|
+|김민우|[정리 링크](https://velog.io/@kmw89891/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)|
+|황인준|[정리 링크](https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter3.md)|
 |황하림||
 
 <br>
 
 ### 질문
 
-1. 
+1. 프로세스 계층 구조를 두었을 때 장점?
+- 프로세스 간 서로 독립적이라면 OS가 자원 회수를 직접해야 해서 작업이 복잡해진다.
+- 자식 프로세스가 끝난 경우 자원 회수를 부모 프로세스가 할 수 있어 자원 관리에 용이하다.
 
-2. 
+2. 일반적으로 함수마다 스택 공간을 할당받으므로 하나의 로직에 대해 함수가 많아진다면 비효율적이다. 그러나, Java에선 메서드 추출을 해도 성능상 이슈가 없다. 그 이유는?
+- JVM의 JIT 컴파일러가 컴파일 시 인라인(inline) 기능을 사용한다.
+> 참고
+> 
+> [인라인 함수](https://tcpschool.com/cpp/cpp_cppFunction_inlineFunction)
+>
+> C++의 경우 `inline`이라는 키워드를 직접 메서드에 명시해야 이 기능을 사용할 수 있지만, Java의 경우 JIT 컴파일러가 이를 대신 해주므로 별도의 `inline` 키워드가 없다.
 
 3. 커널 스레드와 사용자 스레드의 차이
 - 사용 차이로는 주로 스레드의 관리 방식과 성능, 그리고 운영 체제와의 상호작용에 관련
