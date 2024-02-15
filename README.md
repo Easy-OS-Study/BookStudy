@@ -194,7 +194,7 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|[정리 링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch4-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)|
 |김민우|[정리 링크](https://velog.io/@kmw89891/CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)|
 |황인준||
 |황하림||
