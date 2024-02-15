@@ -140,7 +140,7 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|[정리 링크(https://newbie-in-softengineering.tistory.com/entry/OS-Ch3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)|
 |김민우|[정리 링크](https://velog.io/@kmw89891/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)|
 |황인준|[정리 링크](https://github.com/InJun2/TIL/blob/main/BookStudy/SE/쉽게배우는운영체제/Chapter3.md)|
 |황하림||
