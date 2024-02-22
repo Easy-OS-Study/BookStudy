@@ -256,7 +256,7 @@
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|[정리 링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)|
 |김민우|[정리 링크](https://velog.io/@kmw89891/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)|
 |황인준||
 |황하림||
