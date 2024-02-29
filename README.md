@@ -322,7 +322,7 @@ fd가 자식 프로세스에도 복사되므로 같은 fd를 사용<br>
 
 |이름|링크|
 |:---:|:----------:|
-|임규리||
+|임규리|[정리 링크](https://newbie-in-softengineering.tistory.com/entry/OS-Ch6-%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C)|
 |김민우||
 |황인준||
 |황하림||
